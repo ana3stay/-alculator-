@@ -1,0 +1,29 @@
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\Анастасия\Desktop\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+C:\Users\Анастасия\Desktop\study\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
